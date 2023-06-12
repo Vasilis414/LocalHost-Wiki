@@ -56,3 +56,23 @@ Installing PHP on Windows:
 ### Step 20: Now enter the command prompt to show the version of PHP installed on your computer.
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/962ba0fa-1509-4cb4-bc6b-3b5c487d2cf1)
 ### You have successfully installed PHP on your Windows 10 system. (https://www.geeksforgeeks.org/how-to-install-php-in-windows-10/)
+
+<a name="wikitocomputer"></a>
+Copy Repository To Desktop:
+=================
+### Step 1: Download Source Code
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/614950b1-6177-4360-aeca-631d370ca178)
+### Step 2: Save it to Desktop
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/eea710e3-bac9-4084-ac8b-1c2c39f67d0d)
+### Step 3: Extract File
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/0ab734e7-9fdd-4e80-b917-1438a5bcc302)
+
+<a name="setpass"></a>
+Setup A Password for the wiki:
+=================
+### Step 1: Open index.php
+### Step 2: Open Go to line 4
+### Step 3: Replace "Your Password" with a password you want.
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/a2fed502-b4ba-4491-966b-15da29276448)
+#### Example the password for the wiki here is: 123
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/365a2ddf-462a-42c7-af0a-46469b65eb61)
