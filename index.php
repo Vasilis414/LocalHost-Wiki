@@ -21,7 +21,6 @@
 <!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="index.css">
-    <link rel="stylesheet" href="./style.css"> <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu"> </head>
     <style> 
     body {
         font-family: "Ubuntu", sans-serif;
