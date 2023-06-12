@@ -1,0 +1,33 @@
+.lock {
+    width: 200px;
+}
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+    background: linear-gradient(to bottom, #000000, #000000, #bb1e1e);
+}
+.text {
+    font-size: 100px;
+    text-shadow: 0px 0px 20px rgba(255, 0, 0, 0.5); 
+}
+
+.passfield {
+    border-radius: 20px;
+    width: 200px;
+    height: 20px;
+    background-color: red;
+    border-color: white;
+}
+
+.btnfield {
+    border-radius: 20px;
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-color: white;
+}
