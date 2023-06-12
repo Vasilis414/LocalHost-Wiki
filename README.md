@@ -12,7 +12,7 @@ Table of contents
 <!--te-->
 
 <a name="php"/>
-## Installing PHP on Windows:
+# Installing PHP on Windows:
 
 ### Step 1: Visit https://www.php.net/ website using any web browser and click on Downloads.
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/eb48b97c-ea6c-4179-bbe6-d7c179ccec2f)
