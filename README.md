@@ -11,7 +11,7 @@ Table of contents
   * [Running Server](#runserver)
 <!--te-->
 
-
+<a name="php"></a>
 Installing PHP on Windows:
 =================
 
