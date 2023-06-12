@@ -91,7 +91,7 @@ Create Your Own Wiki Contents:
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/9b453935-1d32-4293-ae12-ea5a47038275)
 #### You can remove it or rename it for our new content we created
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/02d8054a-7e4a-452d-a857-cdca25e8d2e3)
-#### For every new content you create duplicate the <li> line and add the file name inside the href and after the title
+#### For every new content you create duplicate the 19 line and add the file name inside the href and after the title
 
 <a name="runserver"></a>
 Run PHP Server
