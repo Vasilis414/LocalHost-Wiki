@@ -16,7 +16,7 @@ body {
     <div class = "text">
         <h1>Contents:</h1>
         <ul>
-            <li><a href="./zoom.php" style="font-size:20px">Test</a></li>
+            <li><a href="./test.php" style="font-size:20px">Test</a></li>
         </ul>
         <h1><a href="../end_session.php" style="font-size:20px">End Session</a></h1>
     </div>
