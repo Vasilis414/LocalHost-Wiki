@@ -11,7 +11,7 @@ Table of contents
   * [Running Server](#runserver)
 <!--te-->
 
-<a name="php"/>
+
 Installing PHP on Windows:
 =================
 
@@ -56,4 +56,3 @@ Installing PHP on Windows:
 ### Step 20: Now enter the command prompt to show the version of PHP installed on your computer.
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/962ba0fa-1509-4cb4-bc6b-3b5c487d2cf1)
 ### You have successfully installed PHP on your Windows 10 system. (https://www.geeksforgeeks.org/how-to-install-php-in-windows-10/)
-</a>
