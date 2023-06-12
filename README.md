@@ -104,6 +104,6 @@ Run PHP Server
 ```
  php -S localhost:8000
 ```
-### Step 3: You can access your wiki in this url: localhost:8000
+### Step 3: You can access your wiki with this url: localhost:8000
 #### The wiki runs on your localnetwork so no one will be able to access it outside
 ### Step 4: After you go to the url type your password then press enter and you should be logged in
