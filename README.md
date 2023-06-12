@@ -1,5 +1,13 @@
 # LocalHost-Wiki Using PHP
 
+# Contents:
+## [Installing PHP](#php)
+## Copying Wiki to your computer
+## Setting a password
+## Creating your contents
+## Running Server
+
+<a name="php"/>
 ## Installing PHP on Windows:
 
 ### Step 1: Visit https://www.php.net/ website using any web browser and click on Downloads.
