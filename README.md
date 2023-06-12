@@ -76,3 +76,34 @@ Setup A Password for the wiki:
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/a2fed502-b4ba-4491-966b-15da29276448)
 #### Example the password for the wiki here is: 123
 ![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/365a2ddf-462a-42c7-af0a-46469b65eb61)
+
+<a name="creatingcontents"></a>
+Create Your Own Wiki Contents:
+=================
+### Step 1: Go to the Contents directory
+### Step 2: Duplicate test.php with the name of the new content for example: how-to-open-youtube.php
+### Setp 4: Open the file and it should look like this
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/2ebeb363-8048-45a5-ba31-2cf6642b8246)
+### Step 5: Add your instructions. My example
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/7f2b0f24-709f-43b1-ab42-9c7a3bcf29a6)
+### Step 6: Now open table.php to add your new content to the table of contents
+#### Here as you can see we have already a test content for our test.php file
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/9b453935-1d32-4293-ae12-ea5a47038275)
+#### You can remove it or rename it for our new content we created
+![image](https://github.com/Vasilis414/LocalHost-Wiki/assets/83064774/02d8054a-7e4a-452d-a857-cdca25e8d2e3)
+#### For every new content you create duplicate the <li> line and add the file name inside the href and after the title
+
+<a name="runserver"></a>
+Run PHP Server
+=================
+### Step 1: Open Command Prompt and cd to the wiki folder
+```
+ cd C:\Users\{user}\Desktop\LocalHost-Wiki-main
+```
+### Step 2: Run the server with this command
+```
+ php -S localhost:8000
+```
+### Step 3: You can access your wiki in this url: localhost:8000
+#### The wiki runs on your localnetwork so no one will be able to access it outside
+### Step 4: After you go to the url type your password then press enter and you should be logged in
