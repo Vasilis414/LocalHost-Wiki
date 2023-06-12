@@ -1,13 +1,13 @@
 <?php
     session_start();
     
-    $_PASSWORD = "Your Password"
+    $_PASSWORD = "Your Password";
 
 
 
 
 
-    if ((string) $_POST[$_PASSWORD] == "193755") {
+    if ((string) $_POST["password"] == $_PASSWORD) {
         $_SESSION['login'] = true;
     }
     
