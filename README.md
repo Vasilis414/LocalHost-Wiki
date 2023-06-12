@@ -1,11 +1,11 @@
 # LocalHost-Wiki Using PHP
 
 ##### Contents:
-[Installing PHP](#php)
-[Copying Wiki to your computer](#wikitocomputer)
-[Setting a password](#setpass)
-[Creating your contents](#creatingcontents)
-[Running Server](#runserver)
+*[Installing PHP](#php)
+*[Copying Wiki to your computer](#wikitocomputer)
+*[Setting a password](#setpass)
+*[Creating your contents](#creatingcontents)
+*[Running Server](#runserver)
 
 <a name="php"/>
 ## Installing PHP on Windows:
