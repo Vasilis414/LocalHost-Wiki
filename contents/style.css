@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+    background: linear-gradient(to bottom, #2e1c5e, #160a85, #000000);
+}
+
+.text {
+    color: white;
+	display: block;
+	justify-content: left;
+	align-items: left;
+}
+
+a {
+    text-decoration: none; /* Remove underline */
+    color: rgb(255, 255, 255); /* Set the color of the link text */
+}
+
+a:hover { 
+    color: rgb(126, 126, 126)
+}
