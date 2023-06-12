@@ -6,14 +6,16 @@
 
 
 
-
-    if ((string) $_POST["password"] == $_PASSWORD) {
-        $_SESSION['login'] = true;
-    }
-    
-    if (isset($_SESSION['login'])) {
-        echo "success";
+    if ($_SESSION['login'] == true) {
         header("Location: ./contents/table.php");
+    }
+
+
+    if (isset($_POST["password"])) {
+        if ((string) $_POST["password"] == $_PASSWORD) {
+            $_SESSION['login'] = true;
+            header("Location: ./contents/table.php");
+        }
     }
 ?>
 <!DOCTYPE html>
